@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![npm](https://img.shields.io/npm/v/@unform/core.svg?color=%237dacf8)](https://www.npmjs.com/package/react-native-template-start-template)
+[![npm](./App/images/core.svg)](https://www.npmjs.com/package/react-native-template-start-template)
 
 </div>
 
